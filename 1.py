@@ -7,3 +7,4 @@ print(back)
 if(result==back):  
     print("입력하신 단어는 회문(Palindrome)입니다.")
     print("하.")
+    print("하.")
