@@ -1,0 +1,5 @@
+a,c=map(int,input().split(','))
+b=(a**2)
+d=(c**2)
+print(f'square({a}) => {b}')
+print(f'square({c}) => {d}')
