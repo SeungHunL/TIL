@@ -5,6 +5,3 @@ print(sum(t))
 print(ord('E'))
 print(ord('A'))       
             
-        
-    
-    
