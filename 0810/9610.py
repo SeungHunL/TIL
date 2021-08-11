@@ -7,11 +7,11 @@ for num in range(T):
     elif A > 0 and B > 0:
         Q1 += 1
     elif A < 0 and B < 0:
-        Q3 = 1
+        Q3 += 1
     elif B < 0:
-        Q2 += 1
-    else:
         Q4 += 1
+    else:
+        Q2 += 1
 print(f'Q1: {Q1}')
 print(f'Q2: {Q2}')
 print(f'Q3: {Q3}')
