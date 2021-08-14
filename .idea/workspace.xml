@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a54978d-4227-4a42-833a-9c18875271c8" name="변경" comment="" />
+    <list default="true" id="3a54978d-4227-4a42-833a-9c18875271c8" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/0810/0812/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0812/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/0813.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/01-36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10103.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10162.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10214.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10757.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10815.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/10989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/11557.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/12-58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1934#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1974.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/2751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/GNS#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/kmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0810/0813/om.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0810" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0814" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
