@@ -1,16 +1,26 @@
-A=input()
-count=[0]*len(A)
-ans=''
-cnt=0
+A = input()
+count = [0] * len(A)
+ans = ''
+reverse = ''
+
+s = 0
 for i in range(len(A)):
-    if A[i]=='<':
-        count[i]=1
-    elif A[i]=='>':
-        count[i]=2
-    elif A[i]==' ':
-        count[i]=3
-j=0
-while 1:
-    if A[i]=='<':
-        s = i
-    
+    if A[i] == '<':
+        s = 1
+        sidx = i
+        ans += reverse[::-1]
+        reverse = ''
+    elif A[i] == '>':
+        ans += A[sidx:i + 1]
+        s = 0
+        sidx = 0
+    elif s == 0 and A[i] == ' ':
+        ans += reverse[::-1] + ' '
+        reverse = ''
+    elif i == len(A) - 1:
+        reverse += A[i]
+        ans += reverse[::-1]
+    elif s == 0:
+        reverse += A[i]
+print(ans)
+
