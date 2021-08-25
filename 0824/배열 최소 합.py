@@ -1,25 +1,44 @@
-# for _ in range(int(input())):
-#     cube = []
-#     N = int(input())
-#
-#     for __ in range(N):
-#         cube.append(list(map(int, input().split())))
-
-def comb(arr, sel, idx, s_idx, R):
+def comb(arr, arr2, sel, idx, s_idx, R, total):
+    n = 1
     if s_idx == R:
+        for i in range(R):
+            total
         print(sel)
         return
     elif idx == len(arr):
         return
     else:
         sel[s_idx] = arr[idx]
-        comb(arr, sel, idx + 1, s_idx+1, R)
-        comb(arr, sel, idx + 1, s_idx, R)
+        n += 1
+        comb(arr, arr2, sel, idx + 1, s_idx + 1, R, total)
+        comb(arr, arr2, sel, idx + 1, s_idx, R, total)
 
-
-A=[]
-N=3
-for i in range(N):
-    A.append(i)
-S = [0] * N
-comb(A, S, 0, 0, N)
+for _ in range(int(input())):
+    N = int(input())
+    cube = []
+    for __ in range(N):
+        cube.append(list(map(int, input().split())))
+#
+#     total = 0
+#     M_total = 1000000
+#     min_idx = 0
+#     stack = []
+#     check = []
+#
+#     for j in range(N):
+#
+#         for k in range(N):
+#             if k not in check:
+#                 min_idx = k
+#                 break
+#
+#         for i in range(N):
+#             if cube[j][min_idx] > cube[j][i] and (i not in check):
+#                 min_idx = i
+#             elif cube[j][min_idx] == cube[j][i] and (i not in check)
+#                 stack.append(i)
+#         check.append(min_idx)
+#         total += cube[j][min_idx]
+#     if M_total > total:
+#         M_total = total
+#     print(f'#{_ + 1} {M_total}')
