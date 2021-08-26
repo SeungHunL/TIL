@@ -1,34 +1,18 @@
-import sys
 
-sys.stdin = open("input (1).txt", "r")
 for _ in range(1):
     T = int(input())
-    N = []
-    for t in range(T):
-        N.append(list(map(int, input().split())))
-    for i in range(1):
-        stack = []
-        for j in range(T):
-            stack.append(N[j][i])
-
-        print(stack)
-        for __ in range(1):
-            move = 0
-            for k in range(100):
-                if stack[k] == 1:
-                    if k == 99:
-                        stack[k] = 0
-                    elif stack[k + 1] == 0:
-                        stack[k] = 0
-                        stack[k + 1] = 1
-                    move = 1
-                elif stack[k] == 2:
-                    if k == 0:
-                        stack[k] = 0
-                    elif stack[k - 1] == 0:
-                        stack[k] = 0
-                        stack[k + 1] = 1
-                    move = 1
-                print(stack)
-            if not move:
-                break
+    N = [0] * 100
+    A = [''] * 100
+    for t in range(100):
+        N[t] = list(map(int, input().split()))
+    for i in range(100):
+        for j in range(100):
+            A[i]+=str(N[j][i])
+        A[i] = A[i].replace("0", "")
+    print(A)
+    count = 0
+    for k in range(100):
+        for l in range(1,len(A[k])):
+            if A[k][l] == '2' and A[k][l-1] == '1':
+                count += 1
+    print(count)
