@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1><b>NEW</b></h1>
+  <form action="{% url 'articles:create' %}" method="GET" class=' d-inline-block' style='padding: 0px;'>
+    <div style='height: 35px;'>
+      <label for="" >TITLE:</label>
+      <input type="text" >
+    </div>
+    <div style='margin: top 20px'>
+    <label for="content" >Content</label>
+    <textarea name="" id="content" cols="30" rows="10" ></textarea>
+    </div>
+    <input type="submit" value='작성'>
+  </form>
+  <br>
+  <a href="{% url 'articles:index' %}" style="text-decoration:none">back</a>
+{% endblock %}
