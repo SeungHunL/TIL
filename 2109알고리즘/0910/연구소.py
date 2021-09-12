@@ -2,7 +2,7 @@ import sys
 from collections import deque
 
 
-def bfs(arr,target):
+def bfs(arr, target):
     while target:
         y, x = target.popleft()
         for k in range(4):
@@ -38,20 +38,20 @@ for i in range(1, N + 1):
         elif maz[i][j] == 2:
             que.append((i, j))
             # 시험용 미로
+L = len(zeros)
+for a in range(L):
+    for b in range(L):
+        for c in range(L):
+            if a < b < c:
+                a1, a2 = zeros[a]
+                b1, b2 = zeros[b]
+                c1, c2 = zeros[c]
 
-for a in zeros:
-    zeros.remove(a)
-    for b in zeros:
-        for c in zeros:
-            a1, a2 = a
-            b1, b2 = b
-            c1, c2 = c
-
-            test = [item[:] for item in maz]
-            testq = deque(que[:])
-            test[a1][a2] = 1
-            test[b1][b2] = 1
-            test[c1][c2] = 1
-            if mx < bfs(test,testq):
-                mx = bfs(test,testq)
+                test = [item[:] for item in maz]
+                testq = deque(que[:])
+                test[a1][a2] = 1
+                test[b1][b2] = 1
+                test[c1][c2] = 1
+                if mx < bfs(test, testq):
+                    mx = bfs(test, testq)
 print(mx)
