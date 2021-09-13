@@ -1,15 +1,17 @@
 import sys
 
+memo = {0: (1, 0), 1: (0, 1)}
+
 
 def fib(n):
-    if n == 0:
-        cnt[0] += 1
-        return 0
-    elif n == 1:
-        cnt[1] += 1
-        return 0
+    if n in memo:
+        cnt[0] += memo[n][0]
+        cnt[1] += memo[n][1]
     else:
-        return fib(n - 1) + fib(n - 2)
+        if n-1 in memo and n-2 in memo:
+            memo[n] = (memo[n-1][0]+memo[n-2][0],memo[n-1][1]+memo[n-2][1])
+        fib(n-1)
+        fib(n-2)
 
 
 for _ in range(int(sys.stdin.readline())):
