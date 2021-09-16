@@ -4,30 +4,29 @@ from collections import deque
 input = sys.stdin.readline
 
 N = int(input())
-tree = [0] * (N + 1)
-check = [False] * (N + 1)
-check[1] = True
-que = deque()
 
-
-def CheckTree(n, m):
-    if check[n]:
-        check[m] = True
-        tree[m] = n
-    elif check[m]:
-        check[n] = True
-        tree[n] = m
-    else:
-        que.append((n, m))
-
-
+graph = [[] * (N + 1) for _ in range(N + 1)]
 for _ in range(N - 1):
     a, b = map(int, input().split())
-    CheckTree(a, b)
+    graph[a].append(b)
+    graph[b].append(a)
 
+visit = [False] * (N + 1)
+visit[1] = True
+ans = [0] * (N + 1)
+que = deque()
+
+for i in graph[1]:
+    ans[i] = 1
+    visit[i] = True
+    que.append(i)
 while que:
-    (a, b) = que.popleft()
-    CheckTree(a, b)
-
+    t = que.popleft()
+    visit[t] = True
+    for j in graph[t]:
+        if not visit[j]:
+            if not ans[j]:
+                ans[j]=t
+            que.append(j)
 for k in range(2, N + 1):
-    print(tree[k])
+    print(ans[k])
