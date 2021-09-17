@@ -4,43 +4,40 @@ input = sys.stdin.readline
 
 
 class Node:
-    def __init__(self, data,left,right):
+    def __init__(self, data, left, right):
         self.data = data
         self.left = left
         self.right = right
 
-def postorder(node):
-    if node.left != None:
-        postorder(node.left)
-    if node.right != None:
-        postorder(node.right)
-    print(node.data)
+
+def postorder(treedic,key):
+    if not treedic[key][0]:
+        postorder(treedic, treedic[key][0])
+    if not treedic[key][1]:
+        postorder(treedic, treedic[key][1])
+    print(key)
 
 
 tree = {}
 N = []
-N.append(int(input()))
-
+start = int(input())
+N.append(start)
+tree[start] = [0, 0]
 while N:
     N.append(int(input()))
-    d=N[-4]
-    a=N[-3]
-    b=N[-2]
-    c=N[-1]
-    if c < b:
-        if c < a:
-            continue
-
-    elif c > b:
-        if c > a and c<d:
-            tree[a]=Node(a,b,c)
-        else:
-            tree[b]=Node(b,None,c)
+    if N[-1] > N[-2]:
+        i = 2
+        while 1:
+            
+            if N[-i - 1] > N[-1] > N[-i]:
+                tree[N[-i]][1] = N[-1]
+                tree[N[-1]]=[0,0]
+                break
+            else:
+                i+=1
     else:
+        tree[N[-2]][0] = N[-1]
+        tree[N[-1]] = [0,0]
+    print(tree)
 
-
-
-    if len(N)==1 and N[0] in tree:
-        break
-
-postorder(tree[s])
+postorder(tree,start)
