@@ -1,6 +1,12 @@
 def comb(arr, t, s=0):
     global allcost
-    print(allcost,arr)
+    print(arr)
+    for k in range(len(arr)-1):
+        if arr[k]<arr[k+1]:
+            break
+    else:
+        if flag or(t-s)%2==0:
+            s=t
     if s == t:
         fin=int(''.join(arr))
         if allcost<=fin:
@@ -21,5 +27,8 @@ for i in range(int(input())):
     nums = list(nums)
     use = [0] * len(nums)
     allcost=0
+    flag=0
+    if len(nums)>len(set(nums)):
+        flag=1
     comb(nums,int(t))
     print(f'#{i+1} {allcost}')
