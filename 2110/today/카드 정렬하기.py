@@ -11,8 +11,12 @@ ans=0
 if t>1:
     while len(card)>2:
         r=card[0]+card[1]
-        card=[card[0]+card[1]]+card[2:]
-        card.sort()
+        for i in range(2,len(card)):
+            if r<=card[i]:
+                card=card[2:i]+[r]+card[i:]
+                break
+        else:
+            card=card[2:]+[r]
         ans+=r
     else:
         ans+=card[0]+card[1]
