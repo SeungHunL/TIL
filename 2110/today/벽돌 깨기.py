@@ -4,6 +4,8 @@ from collections import deque
 def oall(t=0, order=[]):
     global ans, copy
     cnt = 0
+    if ans == 0:
+        return
     if t == N:
         copy = [item[:] for item in block]
         for k in order:
