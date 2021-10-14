@@ -1,5 +1,5 @@
 def move(y, x, s):
-    global ans,str
+    global ans
     if s == 3 and (y==i and x==j):
         if len(visit) > ans:
             ans = len(visit)
