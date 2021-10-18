@@ -3,7 +3,7 @@ import sys
 def cycle(start,end):
     stack=[]
     stack.append(start)
-    visit=[0]*N
+    visit=[0]*(N+1)
     while stack:
         k =stack.pop()
         visit[k]=1
@@ -21,6 +21,8 @@ def krus(arr):
         if cnt==N-1:
             break
         start,end,value=arr[i]
+        if start==end:
+            continue
         if start in ans and end in ans:
             if cycle(start,end):
                 cnt+=1
