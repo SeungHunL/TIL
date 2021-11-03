@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>앙</title>
+</head>
+<body>
+
+  <h1>점심메뉴</h1>
+  <div id="menu">
+    <button @click="menuchoice">Pick one</button>
+    <p>{{menu}}</p>
+  </div>
+
+  <hr>
+  <h1>로또</h1>
+  <div id="lot">
+    <button @click="roll">Get Lucky Numbers</button>
+    <p>{{lotto}}</p>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+  <script>
+    const menus = ['국밥','칼국수','비빔밥','삼겹살']
+    const menu = new Vue({
+      el:'#menu',
+      data:{
+        menu:'X',
+      },
+      methods: {
+        menuchoice: function() {
+          this.menu = menus[_.random(menus.length-1)]
+        }
+      },
+    })
+    const nums = []
+    const lotto = new Vue({
+      el:'#lot',
+      data:{
+        lotto:'X',
+      },
+      methods: {
+        roll: function() {
+          this.nums=[]
+          while(nums.length<6){
+            num=_.random(1,45)
+            if (num in nums==false){
+              nums.push(num)
+            }
+          }
+          this.lotto = nums
+        }
+      },
+    })
+  </script>
+</body>
+</html>
