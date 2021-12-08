@@ -36,7 +36,6 @@
         }
       },
     })
-    const nums = []
     const lotto = new Vue({
       el:'#lot',
       data:{
@@ -44,7 +43,7 @@
       },
       methods: {
         roll: function() {
-          this.nums=[]
+          const nums = []
           while(nums.length<6){
             num=_.random(1,45)
             if (num in nums==false){
