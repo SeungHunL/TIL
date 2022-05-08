@@ -1,0 +1,41 @@
+import sys
+
+
+def dfs(team,n):
+    global ans
+    if team.count(0) == N // 2:
+        A, B = 0, 0
+        ateam, bteam = [], []
+        for i in range(N):
+            if T[i]:
+                ateam.append(i)
+            else:
+                bteam.append(i)
+        for i in range(len(ateam)):
+            for j in range(i + 1, len(ateam)):
+                a,b = ateam[i],ateam[j]
+                A += people[a][b] + people[b][a]
+        for i in range(len(bteam)):
+            for j in range(i + 1, len(bteam)):
+                a,b = bteam[i],bteam[j]
+                B += people[a][b] + people[b][a]
+        if abs(A - B) < ans:
+            ans = abs(A - B)
+        return
+
+    for i in range(n+1,N):
+        T[i] = 1
+        dfs(team,i)
+        T[i] = 0
+
+input = sys.stdin.readline
+
+N = int(input())
+people = []
+for _ in range(N):
+    people.append(list(map(int, input().split())))
+T = [0]*N
+ans = 1e9
+dfs(T,0)
+print(ans)
+
