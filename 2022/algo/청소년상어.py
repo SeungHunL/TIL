@@ -1,61 +1,53 @@
 import sys
+import copy
 
 input = sys.stdin.readline
 
 
-def fish_move(smap, fishlist):
-    for i in range(1, 17):
-        c, y, x, direction = fishlist[i]
-        if not c:  # 잡히지 않았을 때
-            for j in range(8):
-                dy, dx = d[(direction + j) % 8]
-                ty, tx = y + dy, x + dx
-                if 0 <= ty < 4 and 0 <= tx < 4 and smap[ty][tx] != -1:
-                    fishlist[i] = [False, ty, tx, (direction + j) % 8]
-                    fishlist[smap[ty][tx]][1] = y
-                    fishlist[smap[ty][tx]][2] = x
-                    smap[ty][tx], smap[y][x] = smap[y][x], smap[ty][tx]
+def fish_move(board,sha):
+    for a in range(1, 17):
+        y = x = -1
+        for b in range(4):
+            for k in range(4):
+                if board[b][k][0] == a:
+                    y, x = b, k
                     break
-    return smap, fishlist
+        if y == -1 and x == -1:
+            continue
+        direction = board[y][x][1]
+        for l in range(8):
+            dy, dx = d[(direction + l) % 8]
+            ty, tx = y + dy, x + dx
+            if 0 <= ty < 4 and 0 <= tx < 4 and not (ty == sha[0] and tx == sha[1]):
+                board[y][x][1] = (direction + l) % 8
+                board[ty][tx], board[y][x] = board[y][x], board[ty][tx]
+                break
+    return board
 
 
-def shark_move(smap, fishlist):
-    global t, shark
-    if t == 1:
-        eaten = smap[0][0]
-        fishlist[eaten][0] = True
-        shark = [0, 0, fishlist[eaten][3]]
-        smap[0][0] = -1
-    else:
-        t += 1
-        y, x, direction = shark
-        dy, dx = d[direction]
-        for i in range(1, 3):
-            ty, tx = y + dy * i, x + dx * i
-            if 0 <= ty < 4 and 0 <= tx < 4 and smap[ty][tx] > 0:
-                eaten = smap[ty][tx]
-                fishlist[eaten][0] = True
-                shark = [ty, tx, fishlist[eaten][3]]
-                smap[ty][tx] = -1
-                shark_move(fish_move(smap, fishlist))
-        else:
-            t -= 1
-            return
+def shark_move(smap, score, sh):
+    global max_score
+    sy, sx = sh
+    score += smap[sy][sx][0]
+    max_score = max(max_score, score)
+    smap[sy][sx][0] = 0
+    direction = smap[sy][sx][1]
+    nmap = fish_move(smap,sh)
+    dy, dx = d[direction]
+    for q in range(1, 4):
+        ty, tx = sy + dy * q, sx + dx * q
+        if 0 <= ty < 4 and 0 <= tx < 4 and nmap[ty][tx][0] > 0:
+            shark_move(copy.deepcopy(nmap), score, [ty, tx])
 
 
-# 7 6 2 3 15 6 9 8
-# 3 1 1 8 14 7 10 1
-# 6 1 13 6 4 3 11 4
-# 16 1 8 7 5 2 12 2
-maps = [[0] * 4 for __ in range(4)]
-fishes = [[False, 0, 0]] * 17
-for _ in range(4):
+maps = [[[0, 0]] * 4 for __ in range(4)]
+for i in range(4):
     line = list(map(int, input().split()))
-    for __ in range(4):
-        maps[_][__] = line[2 * __]
-        fishes[line[2 * __]] = [False, _, __, line[2 * __ + 1] - 1]
-d = [(-1, 0), (-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1), ]
+    for j in range(4):
+        maps[i][j] = [line[2 * j], line[2 * j + 1] - 1]
+d = [(-1, 0), (-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1)]
 max_score = 0
-
-shark_move(maps, fishes)
+shark = [0, 0]  # 먹은 거, 방향, y, x]
+eat = 0
+shark_move(maps, eat, shark)
 print(max_score)
