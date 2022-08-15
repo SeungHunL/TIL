@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eab97fcf-2fc6-430f-a5b6-581279217dab" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/2025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/37pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/38pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/40pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/41pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/43pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/44pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/46pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/47pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/48pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/49pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/50pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0715/52pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/10699.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/11021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/11022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/2163.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/3046.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/RIOTAPI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/bobobot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/bs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/control flow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/dust_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/dustck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/national.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/python weather (2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0716/python weather.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0719/mon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/Dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/SWEA1933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/SWEA2063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/interpretation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/mid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/oddnum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/stairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0720/starsquare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0721/2dsum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0721/dictlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0721/listsum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0721/midword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0721/my_avg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/2914.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/5355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/A+B-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/AI Clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/DATEout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/asc2sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/asc2word.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/bojurl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/memo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/oven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/pr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0722/strname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0727/dup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0727/dupl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0727/lonely.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0727/low_up.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0728/WS3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0728/WS4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0728/low_up2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0729/OPP3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0729/Puppy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0729/WS8-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0729/WS8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2107/0729/makemove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/01-36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/01_DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/03_Queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10039.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10103.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10156.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10162.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10214.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10757.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10773.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10808.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10815.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10845.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10886.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10988.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/10989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/11557.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/11653.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1193.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/12-58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1210.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1213.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1218.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1219 #2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/12221 구구단2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/12222 문자열 나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/12368.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/12457.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1249.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1267.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/17413.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1934#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1954#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1966.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1974.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1977.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/210818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2476.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2480.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2596.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2622.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2636.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2641.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2660.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2667.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2669.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2754.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/2935.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/3009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/3143#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4101.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4408#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4408.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4831.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4834.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4835.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4836#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4837.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4843.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4864.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5355.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5356.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5432.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5717.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/5789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/6485 #2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/6485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/7567.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/8958.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/9020#3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/9506.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/9610.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/9935.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/BFS#3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/Contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/GNS#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/IM TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/K번째 문자열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/K번째 접미어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/RC까.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/box_high.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/cnt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/easy 369.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/eww.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/hello.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/icon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/kmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/min#.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/nav.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/not1251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/om.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/permutation_재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/powerset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/soinsue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/간선의 거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/경비원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/계산기 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/계산기 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/계산기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/궁예.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/기지국.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/김녕미로공원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/까다로운 붕어빵.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/단조 증가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/달팽이 숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/두 개의 숫자열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/딱지 놀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/러시아 국기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/미로 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/미로투.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/방 배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/방제성 오목.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/배열 최소 합 #2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/배열 최소 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/뱀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/부분집합의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/비트마스킹 powerset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/빙고.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/색종이 완.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/색종이 투.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/수 묶기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/수 이어가기#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/스위치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/스택 수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/암호해독기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/양 세기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/우원재 메모리 복구.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/인터스텔라 농장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/일곱 난쟁이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/일련번호 붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/자석.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/전화번호 목록.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/종이 자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/중위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/직사각형 창조.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/직사각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/참외밭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/탑.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/토너먼트 카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/토너먼트 카드게임#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/퍼펙트 셔플.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/피자 굽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2108/회전회오리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/2109알고리즘.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/1로 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/2진 암호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/DFS와BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/N과 M(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/RGB거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/z.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/거리두기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/구간 합 구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/낙서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/노드의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/단지번호붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/당구.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/등산로 조성.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/문자열 집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/물놀이를 가자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/미로 탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/사칙연산 유효성 검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/상근이의 여행 _이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/섬의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/수 정렬3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/수영장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/숨바꼭질.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/숫자 문자열과 영단어.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/안전영역.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/여러 문제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/연결 요소의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/연구소.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/완전 이진 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/웜 바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/유기농 배추.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/이진 검색 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/이진 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/전화번호 목록.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/좌표 압축.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/최단 경로 CLEAR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/최단 경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/탈주범 검거.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/토마토.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/트리 순회 _이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/트리의 부모 찾기 _이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/표 편집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/프로그래머스 레벨 2 문제 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/프로그래머스 레벨 2 문제 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/프로그래머스 레벨2 문제2 #2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2109알고리즘/피보나치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/2110.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/1번.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/2번.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/Hoare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/LCS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/MST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/Merge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/N-Queen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/baby jin 완전탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/quick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/today.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/1242.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/Contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/today/asa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/격자판의 숫자 붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/공통 조상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/그룹 나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/단어 수학.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/동철이의 일 분배.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/디저트 카페.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/로봇 청소기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/마카롱.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/베이비진 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/벽돌 깨기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/보급로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/선택 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/쉬운 거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/Algo1_부울경_2반_이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/Algo2_부울경_2반_이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/Algo3_부울경_2반_이승훈.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/네트워크 연결.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/다익스트라.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/병합 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/부분집합 합 문제 구현하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/비트마스킹.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/선택.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/완탐 baby jin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/최소 스패닝 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/알고리즘 과목평가/퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/암호 코드 스캔 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/암호 코드 스캔.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/암호 코드 스캔3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/요리사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/이진 탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/이진수 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/이진수 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/이진수표현.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/인수의 생일 파티 #2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/인수의 생일 파티.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/작업 순서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/장훈이의 높은 선반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/전기 버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/전자 카트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/정사각형 방.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/정식이의 은행업무.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/창용 마을 무리의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최;소 생산 비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최대 상금.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최대 상금2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소 비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소 신장 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소 이동 거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최소합3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/최장 경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/카드 정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/컨테이너 운반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/파이썬 응용 연습문제1 이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/파이썬 응용 연습문제2 이승훈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/하나로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110/화물 도크.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/templates/articles/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/templates/articles/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue 실습/day01workshop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../vue 실습/day01workshop.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21fBhJ4RNGH3BNAUkcDaz6KTzy5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021/2112" />
+  </component>
+  <component name="RunManager" selected="Python.광이삼의 암벽등반">
+    <configuration name="미생물 격리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/미생물 격리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="광이삼의 암벽등반" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/광이삼의 암벽등반.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="성현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/성현.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ALGO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="보물상자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보물상자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.광이삼의 암벽등반" />
+        <item itemvalue="Python.성현" />
+        <item itemvalue="Python.ALGO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="eab97fcf-2fc6-430f-a5b6-581279217dab" name="변경" comment="" />
+      <created>1638322378900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638322378900</updated>
+    </task>
+    <servers />
+  </component>
+</project>
