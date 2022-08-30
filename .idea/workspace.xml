@@ -2,10 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a54978d-4227-4a42-833a-9c18875271c8" name="변경" comment="변경">
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/11047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/11054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/11066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1197.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/12015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/12852.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/14003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/15652.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1644.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1717.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1759.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/18225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1890.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1911.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1927.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/1987.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2252.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2294.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2338.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/24041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2493.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/2750.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/5052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/5430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/5585.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/9095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/9252.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjun_220807/9663.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/react/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/react/ttt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/react/vanilla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjun_220807/1931.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjun_220807/1931.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjun_220807/2293.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjun_220807/2293.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +88,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.10815">
-    <configuration name="10815" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.14003">
+    <configuration name="1005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/10815.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/1005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15486" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/15486.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/14003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2293" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1644" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/2293.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/1644.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9461" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1717" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/9461.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/1717.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9465" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2252" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/9465.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjun_220807/2252.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10815" />
-        <item itemvalue="Python.15486" />
-        <item itemvalue="Python.2293" />
-        <item itemvalue="Python.9461" />
-        <item itemvalue="Python.9465" />
+        <item itemvalue="Python.14003" />
+        <item itemvalue="Python.1005" />
+        <item itemvalue="Python.2252" />
+        <item itemvalue="Python.1644" />
+        <item itemvalue="Python.1717" />
       </list>
     </recent_temporary>
   </component>

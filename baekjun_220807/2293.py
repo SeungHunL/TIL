@@ -4,7 +4,6 @@ input = sys.stdin.readline
 
 n, k = map(int, input().split())
 
-# dp = [[0] * (k + 1) for _ in range(n)]
 dp = [[0] * (k + 1) for _ in range(2)]
 
 coins = []
@@ -21,5 +20,4 @@ for c in range(n):
         else:
             dp[1][i] = dp[1][i-coins[c]]+dp[0][i]
     dp[0][:]=dp[1][:]
-
 print(dp[0][-1])

@@ -3,27 +3,16 @@ import sys
 input= sys.stdin.readline
 
 N=int(input())
-times=[0]*24
-dic={}
+times=[]
 for i in range(N):
-    a,b=map(int,input().split())
-    if a==b:
-        times[a]+=1
-    elif b in dic:
-        dic[b].append(a)
-    else:
-        dic[b] = [a]
+    times.append(list(map(int,input().split())))
+times.sort(key=lambda x:(x[1],x[0]))
 
-dp=[0]*24
-for i in range(1,24):
-    if i in dic:
-        dp[i]=max(dp[max(dic[i])]+1,dp[i-1])
-    else:
-        dp[i]=dp[i-1]
-    dp[i]+=times[i]
-print(dp[-1])
-# 4
-# 1 3
-# 3 4
-# 4 5
-# 5 6
+tmp=1
+et=times[0][1]
+for i in range(1,N):
+    s,e= times[i][0],times[i][1]
+    if s>=et:
+        tmp+=1
+        et=e
+print(tmp)
